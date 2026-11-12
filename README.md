@@ -137,10 +137,9 @@ Makes the rickshaw move Slower.
 
 Village
 
-🤝 Contributors
-Rafid Abrar
-
+🤝 Contributors 
 Adnan Hossain Ratul
+Rafid Abrar
 
 Iftekhar Ismail Swadheen
 
